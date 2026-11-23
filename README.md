@@ -16,8 +16,11 @@ Il te sert de trois façons :
   déclaration des personnages, résultat déclaré automatiquement, profil, ELO, classements et quêtes.
 
 <p align="center">
-  <img src="images/overlay.png" width="380" alt="L'overlay en jeu et la fiche d'un joueur">
+  <img src="images/overlay.webp" alt="En jeu : l'overlay des dégâts, la barre des sorts du tour et la fiche d'un joueur">
 </p>
+
+<p align="center"><em>L'overlay est entièrement paramétrable : tu choisis chaque partie affichée (statistiques,
+fiche joueur, sorts du tour), sa place, sa taille et son opacité.</em></p>
 
 ### ⬇️ [Télécharger la dernière version](https://github.com/Utojiko/WakLeague-Tracker-Releases/releases/latest)
 
@@ -41,6 +44,10 @@ Tout le tracker fonctionne **sans compte**. Le compte Discord ne sert qu'à la p
 ---
 
 ## L'overlay : l'essentiel en jeu
+
+L'overlay est **entièrement paramétrable** : chaque partie (le panneau de statistiques, la fiche joueur, la barre
+des sorts du tour) s'affiche ou se masque à ton choix et se place où tu veux, indépendamment des autres
+(Réglages › Overlay).
 
 ### L'overlay de statistiques
 
